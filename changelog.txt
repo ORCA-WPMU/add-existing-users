@@ -1,0 +1,25 @@
+Plugin Name: Add Existing Users
+Author: WPMUDEV
+
+Change Log:
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+1.2.1 - 2014-03-04
+----------------------------------------------------------------------
+- Fixed capability issue for Administrators
+
+1.2 - 2014-01-10
+----------------------------------------------------------------------
+- Completely recoded.
+- Table dropped. Users are added instantly.
+- Better WP UI integration.
+- Other fixes.
+
+1.1.1 - 02/24/2011
+----------------------------------------------------------------------
+- Enhancement: compatibility with WordPress 3.1
+- Enhancement: internationalization
+
+
+403900-1511248279-ai
